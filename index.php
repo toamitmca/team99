@@ -1,3 +1,3 @@
 <?php
-echo "Hello BitBucket!";
+echo "Hello GitHub!";
 ?>
